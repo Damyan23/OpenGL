@@ -1,0 +1,3 @@
+A basic OpenGL project.
+
+THe executable file is in the program foulder, and the source code is all of the rest.
